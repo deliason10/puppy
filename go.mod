@@ -1,3 +1,3 @@
-module github.com/deliason10/golang_projects/puppy
+module github.com/deliason10/puppy
 
 go 1.24.1
